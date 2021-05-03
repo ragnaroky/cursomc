@@ -42,7 +42,14 @@
 			 <groupId>org.springframework.boot</groupId>
 			 <artifactId>spring-boot-devtools</artifactId>
 		</dependency>
+		
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+		</dependency>
+		
 		<!-- acrescentado para inserir validação -->
+		
 		<dependency>
 			<groupId>javax.validation</groupId>
 			<artifactId>validation-api</artifactId>
